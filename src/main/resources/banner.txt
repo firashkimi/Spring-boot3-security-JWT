@@ -1,0 +1,26 @@
+
+
+
+NNNNNNNN        NNNNNNNN                                                     hhhhhhh
+N:::::::N       N::::::N                                                     h:::::h
+N::::::::N      N::::::N                                                     h:::::h
+N:::::::::N     N::::::N                                                     h:::::h
+N::::::::::N    N::::::N   ooooooooooo   uuuuuu    uuuuuu rrrrr   rrrrrrrrr   h::::h hhhhh           eeeeeeeeeeee    nnnn  nnnnnnnn        eeeeeeeeeeee
+N:::::::::::N   N::::::N oo:::::::::::oo u::::u    u::::u r::::rrr:::::::::r  h::::hh:::::hhh      ee::::::::::::ee  n:::nn::::::::nn    ee::::::::::::ee
+N:::::::N::::N  N::::::No:::::::::::::::ou::::u    u::::u r:::::::::::::::::r h::::::::::::::hh   e::::::eeeee:::::een::::::::::::::nn  e::::::eeeee:::::ee
+N::::::N N::::N N::::::No:::::ooooo:::::ou::::u    u::::u rr::::::rrrrr::::::rh:::::::hhh::::::h e::::::e     e:::::enn:::::::::::::::ne::::::e     e:::::e
+N::::::N  N::::N:::::::No::::o     o::::ou::::u    u::::u  r:::::r     r:::::rh::::::h   h::::::he:::::::eeeee::::::e  n:::::nnnn:::::ne:::::::eeeee::::::e
+N::::::N   N:::::::::::No::::o     o::::ou::::u    u::::u  r:::::r     rrrrrrrh:::::h     h:::::he:::::::::::::::::e   n::::n    n::::ne:::::::::::::::::e
+N::::::N    N::::::::::No::::o     o::::ou::::u    u::::u  r:::::r            h:::::h     h:::::he::::::eeeeeeeeeee    n::::n    n::::ne::::::eeeeeeeeeee
+N::::::N     N:::::::::No::::o     o::::ou:::::uuuu:::::u  r:::::r            h:::::h     h:::::he:::::::e             n::::n    n::::ne:::::::e
+N::::::N      N::::::::No:::::ooooo:::::ou:::::::::::::::uur:::::r            h:::::h     h:::::he::::::::e            n::::n    n::::ne::::::::e
+N::::::N       N:::::::No:::::::::::::::o u:::::::::::::::ur:::::r            h:::::h     h:::::h e::::::::eeeeeeee    n::::n    n::::n e::::::::eeeeeeee
+N::::::N        N::::::N oo:::::::::::oo   uu::::::::uu:::ur:::::r            h:::::h     h:::::h  ee:::::::::::::e    n::::n    n::::n  ee:::::::::::::e
+NNNNNNNN         NNNNNNN   ooooooooooo       uuuuuuuu  uuuurrrrrrr            hhhhhhh     hhhhhhh    eeeeeeeeeeeeee    nnnnnn    nnnnnn    eeeeeeeeeeeeee
+
+
+
+
+
+
+
