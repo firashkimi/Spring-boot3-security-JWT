@@ -26,6 +26,9 @@ public class User implements UserDetails {
     @Enumerated(EnumType.STRING)
     private Role role;
 
+    private boolean enabled;
+    private boolean accountLocked;
+
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
@@ -57,8 +60,15 @@ public class User implements UserDetails {
         return true;
     }
 
+
     @Override
     public boolean isEnabled() {
-        return true;
+        return enabled;
     }
+
+    public String getFullName() {
+        return firstname + " " + lastname;
+    }
+
+
 }
